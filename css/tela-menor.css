@@ -11,6 +11,17 @@
 
 }
 
+#container{
+
+    background-color: purple;
+    margin: auto;
+    width: 450px;
+    font-size: 20pt;
+}
+
+#corpo, #conteudo {
+    width: 100%;
+}
 
 
 
