@@ -22,10 +22,10 @@
         float: left;
     }
     #menu-lateral {
+        background-color: orange;
         height: 100%;
         width: 150px;
         float: left;
-        background-color: orange;
     }
     #imagem-noticia {
         background-color: black;
@@ -43,5 +43,6 @@
         background-color: blueviolet;
         width: 100%;
         height: 400px;
+        overflow: scroll;
     }
 }
